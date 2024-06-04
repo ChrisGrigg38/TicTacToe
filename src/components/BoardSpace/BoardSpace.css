@@ -1,0 +1,19 @@
+.boardSpace {
+  height: 70px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: black;
+  border: black solid 1px; 
+  font-size: 60px;
+  cursor:crosshair
+}
+
+.lightBoardSpace {
+  background-color: red;
+}
+
+.normalBoardSpace {
+  background-color: white;
+}
